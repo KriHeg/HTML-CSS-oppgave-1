@@ -59,7 +59,7 @@ img {
   align-items: center;
 }
 
-#questionbox {
+.questionbox {
   background-color: rgb(75, 126, 157);
   border-radius: 10px;
   border-color: black;
