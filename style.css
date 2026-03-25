@@ -6,7 +6,11 @@ header {
   flex-direction: column;
   align-items: center;
 }
-
+a {
+  padding-left: 1%;
+  padding-left: 1%;
+  color: black;
+}
 .nav {
   display: flex;
   background-color: rgb(75, 126, 157);
@@ -17,9 +21,6 @@ header {
   font-size: large;
 }
 
-li {
-  padding: 1%;
-}
 .main {
   width: 100%;
   display: flex;
